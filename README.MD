@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 **Note:** Please be mindful of ethical considerations and respectful language while customizing commands.
 
 **Disclaimer:** The provided content does not endorse or promote any offensive or inappropriate content. Please use the script responsibly and considerately.
-```
+
