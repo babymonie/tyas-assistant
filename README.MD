@@ -27,7 +27,7 @@ This repository contains a Python script that allows you to automate various tas
 1. Run the script using the following command:
 
    ```bash
-   python voice_command_automation.py
+   python tyas.py
    ```
 
 2. The script will prompt you to choose a microphone. Follow the instructions to select the desired microphone for speech input.
