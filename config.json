@@ -1,0 +1,7 @@
+{
+  "language": "en-AU" // Language code - See https://cloud.google.com/speech-to-text/docs/languages for a list of supported languages
+  "chunk_size": 300, // Duration of each audio chunk in milliseconds - Recommended value: 4000 for optimal speech recognition (increasing may lead to slower recognition)
+  "rate": 13000, // Audio sample rate - Recommended value: 26000 for improved speech recognition (lower values might impact recognition quality)
+  "prefix": "tyas" // Command prefix - Customize this to your preference, e.g., "tyas", "voice", etc.
+  
+}
